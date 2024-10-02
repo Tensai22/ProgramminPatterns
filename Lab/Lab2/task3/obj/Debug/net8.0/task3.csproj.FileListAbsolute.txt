@@ -1,0 +1,14 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\bin\Debug\net8.0\task3.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\bin\Debug\net8.0\task3.deps.json
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\bin\Debug\net8.0\task3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\bin\Debug\net8.0\task3.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\refint\task3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Lab\Lab2\task3\obj\Debug\net8.0\ref\task3.dll

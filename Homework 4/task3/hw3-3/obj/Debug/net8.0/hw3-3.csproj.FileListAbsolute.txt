@@ -1,0 +1,14 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.AssemblyInfoInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.AssemblyInfo.cs
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\bin\Debug\net8.0\hw3-3.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\bin\Debug\net8.0\hw3-3.deps.json
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\bin\Debug\net8.0\hw3-3.runtimeconfig.json
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\bin\Debug\net8.0\hw3-3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\bin\Debug\net8.0\hw3-3.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\refint\hw3-3.dll
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\hw3-3.genruntimeconfig.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 4\task3\hw3-3\obj\Debug\net8.0\ref\hw3-3.dll
