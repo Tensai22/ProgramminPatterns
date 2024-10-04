@@ -8,33 +8,34 @@
         }
         public static void Main(string[] args)
         {
-            GetVehicle(VehicleType.Car).Drive();
-            GetVehicle(VehicleType.Motorcycle).Drive();
-            GetVehicle(VehicleType.Truck).Drive();
+            IVehicle car1 = GetVehicle(VehicleType.Car, "honda", "civic", "gas");
+            car1.Drive();
+            car1.Refuel();
+            IVehicle moto1 = GetVehicle(VehicleType.Motorcycle, "Off road", "800");
+            moto1.Drive();
+            moto1.Refuel();
+            IVehicle truck1 = GetVehicle(VehicleType.Truck, "1000", "4");
+            truck1.Drive();
+            truck1.Refuel();
 
-            GetVehicle(VehicleType.Car).Refuel();
-            GetVehicle(VehicleType.Motorcycle).Refuel();
-            GetVehicle(VehicleType.Truck).Refuel(); 
         }
-        public static IVehicle GetVehicle(VehicleType vehicleType)
+        public static IVehicle GetVehicle(VehicleType vehicleType, params string[] vehicleData)
         {
             VehicleCreater creater = null;
-            IVehicle vehicle = null;
 
             switch (vehicleType)
             {
                 case VehicleType.Car:
-                    creater = new CarCreater();
+                    creater = new CarCreater(vehicleData[0], vehicleData[1], vehicleData[2]);
                     break;
                 case VehicleType.Motorcycle:
-                    creater = new MotorcycleCreater();
+                    creater = new MotorcycleCreater(vehicleData[0], int.Parse(vehicleData[1]));
                     break;
                 case VehicleType.Truck:
-                    creater = new TruckCreater();
+                    creater = new TruckCreater(vehicleData[0], int.Parse(vehicleData[1]));
                     break;
             }
-            vehicle = creater.CreateVehicle();
-            return vehicle;
+            return creater.CreateVehicle();
         }
         public interface IVehicle
         {
@@ -44,9 +45,9 @@
         }
         public class Car : IVehicle
         {
-            public string brand;
-            public string model;
-            public string fuelType;
+            public string brand { get; set; }
+            public string model { get; set; }
+            public string fuelType { get; set; }
 
 
             public Car(string brand, string model, string fuelType)
@@ -58,17 +59,17 @@
 
             public void Drive()
             {
-                Console.WriteLine("Driving car");
+                Console.WriteLine($"Driving car: {brand} {model}, fuel type: {fuelType}");
             }
             public void Refuel()
             {
-                Console.WriteLine("Refueling car");
+                Console.WriteLine($"Refueling car {brand} {model} with {fuelType}");
             }
         }
         public class Motorcycle : IVehicle
         {
-            public string motorcycleType;
-            public int engineCapacity;
+            public string motorcycleType { get; set; }
+            public int engineCapacity { get; set; }
             public Motorcycle(string motorcycleType, int engineCapacity)
             {
                 this.motorcycleType = motorcycleType;
@@ -77,7 +78,7 @@
 
             public void Drive()
             {
-                Console.WriteLine("Driving Motorcycle");
+                Console.WriteLine($"Driving Motorcycle, type: {motorcycleType}, with engine capacity: {engineCapacity} ");
             }
             public void Refuel()
             {
@@ -86,8 +87,8 @@
         }
         public class Truck : IVehicle
         {
-            public string loadCapacity;
-            public int axis;
+            public string loadCapacity { get; set; }
+            public int axis { get; set; }
             public Truck(string loadCapacity, int axis)
             {
                 this.loadCapacity = loadCapacity;
@@ -95,7 +96,7 @@
             }
             public void Drive()
             {
-                Console.WriteLine("Driving Truck");
+                Console.WriteLine($"Driving Truck. Load capacity: {loadCapacity} and {axis} amount of axis");
             }
             public void Refuel()
             {
@@ -108,23 +109,49 @@
         }
         public class CarCreater : VehicleCreater
         {
+            private string _brand;
+            private string _model;
+            private string _fuelType;
+
+            public CarCreater(string brand, string model, string fuelType)
+            {
+                _brand = brand;
+                _model = model;
+                _fuelType = fuelType;
+            }
             public override IVehicle CreateVehicle()
             {
-                return new Car();
+                return new Car(_brand, _model, _fuelType);
             }
         }
         public class MotorcycleCreater : VehicleCreater
         {
+            private string _motorcycleType;
+            private int _engineCapacity;
+
+            public MotorcycleCreater(string motorcycleType, int engineCapacity)
+            {
+                _motorcycleType = motorcycleType;
+                _engineCapacity = engineCapacity;
+            }
             public override IVehicle CreateVehicle()
             {
-                return new Motorcycle();
+                return new Motorcycle(_motorcycleType, _engineCapacity);
             }
         }
         public class TruckCreater : VehicleCreater
         {
+            private string _loadCapacity;
+            private int _axis;
+
+            public TruckCreater(string loadCapacity, int axis)
+            {
+                _loadCapacity = loadCapacity;
+                _axis = axis;
+            }
             public override IVehicle CreateVehicle()
             {
-                return new Truck();
+                return new Truck(_loadCapacity, _axis);
             }
         }
     }

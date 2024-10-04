@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\dotnet\\Homework 5\\hm5\\hm5\\hm5.csproj": {}
+    "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Homework 5\\hm5\\hm5\\hm5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\dotnet\\Homework 5\\hm5\\hm5\\hm5.csproj": {
+    "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Homework 5\\hm5\\hm5\\hm5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\dotnet\\Homework 5\\hm5\\hm5\\hm5.csproj",
+        "projectUniqueName": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Homework 5\\hm5\\hm5\\hm5.csproj",
         "projectName": "hm5",
-        "projectPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\dotnet\\Homework 5\\hm5\\hm5\\hm5.csproj",
+        "projectPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Homework 5\\hm5\\hm5\\hm5.csproj",
         "packagesPath": "C:\\Users\\Bako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\dotnet\\Homework 5\\hm5\\hm5\\obj\\",
+        "outputPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Homework 5\\hm5\\hm5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bako\\AppData\\Roaming\\NuGet\\NuGet.Config",
