@@ -20,12 +20,15 @@
       "outputPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\Рабочий стол\\University\\3 Year\\Programming Patterns\\Practice 5\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bako\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bako\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

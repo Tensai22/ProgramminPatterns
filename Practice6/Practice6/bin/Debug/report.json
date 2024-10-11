@@ -1,0 +1,20 @@
+{
+  "title": "Sample Report",
+  "description": "This is the main content of the report.",
+  "chapter": "Report Footer",
+  "Sections": [
+    {
+      "Item1": "Introduction",
+      "Item2": "This is the introduction section."
+    },
+    {
+      "Item1": "Details",
+      "Item2": "This section contains detailed information."
+    }
+  ],
+  "Style": {
+    "backgroundColor": "White",
+    "fontColor": "Black",
+    "fontSize": 14
+  }
+}

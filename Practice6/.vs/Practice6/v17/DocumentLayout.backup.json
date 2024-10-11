@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\prototype\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\prototype\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:Practice6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\pdfreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\pdfreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\textreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\textreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\jsonreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\jsonreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\htmlreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\htmlreportbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\reportdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\reportdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\practice6\\practice6\\builder\\reportstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:practice6\\builder\\reportstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\IReportBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB628A11-4799-4CAF-B523-101460EF9888}|Practice6\\Practice6.csproj|solutionrelative:Practice6\\Builder\\IReportBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Prototype\\Prototype.cs",
+              "RelativeDocumentMoniker": "Practice6\\Prototype\\Prototype.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Prototype\\Prototype.cs",
+              "RelativeToolTip": "Practice6\\Prototype\\Prototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:59:18.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\JsonReportBuilder.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\JsonReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\JsonReportBuilder.cs",
+              "RelativeToolTip": "Practice6\\Builder\\JsonReportBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:51:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportDirector.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\ReportDirector.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\ReportDirector.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\ReportDirector.cs",
+              "RelativeToolTip": "Practice6\\Builder\\ReportDirector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:08:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\Report.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\Report.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\Report.cs",
+              "RelativeToolTip": "Practice6\\Builder\\Report.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:46:17.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\IReportBuilder.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\IReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\IReportBuilder.cs",
+              "RelativeToolTip": "Practice6\\Builder\\IReportBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:27:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Program.cs",
+              "RelativeDocumentMoniker": "Practice6\\Program.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Program.cs",
+              "RelativeToolTip": "Practice6\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:13:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportStyle.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\ReportStyle.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\ReportStyle.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\ReportStyle.cs",
+              "RelativeToolTip": "Practice6\\Builder\\ReportStyle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:42:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\TextReportBuilder.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\TextReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\TextReportBuilder.cs",
+              "RelativeToolTip": "Practice6\\Builder\\TextReportBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\PdfReportBuilder.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\PdfReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\PdfReportBuilder.cs",
+              "RelativeToolTip": "Practice6\\Builder\\PdfReportBuilder.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:42:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlReportBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\HtmlReportBuilder.cs",
+              "RelativeDocumentMoniker": "Practice6\\Builder\\HtmlReportBuilder.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Practice6\\Practice6\\Builder\\HtmlReportBuilder.cs",
+              "RelativeToolTip": "Practice6\\Builder\\HtmlReportBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:48.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
