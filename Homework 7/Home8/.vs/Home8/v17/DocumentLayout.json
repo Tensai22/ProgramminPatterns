@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\currencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\currencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\appobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\appobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\desktopobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\desktopobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\emailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\emailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\home8\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59E4775-ED2F-4EC3-B429-C757B774ED32}|Home8.csproj|solutionrelative:observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:51:35.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\EmailObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\EmailObserver.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\EmailObserver.cs",
+              "RelativeToolTip": "Observer\\EmailObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:08:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesktopObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\DesktopObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\DesktopObserver.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\DesktopObserver.cs",
+              "RelativeToolTip": "Observer\\DesktopObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:07:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\AppObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\AppObserver.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\AppObserver.cs",
+              "RelativeToolTip": "Observer\\AppObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:06:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyExchange.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\CurrencyExchange.cs",
+              "RelativeDocumentMoniker": "Observer\\CurrencyExchange.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\CurrencyExchange.cs",
+              "RelativeToolTip": "Observer\\CurrencyExchange.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:05:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "Observer\\ISubject.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\ISubject.cs",
+              "RelativeToolTip": "Observer\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:04:01.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\Home8\\Observer\\IObserver.cs",
+              "RelativeToolTip": "Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:03:45.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

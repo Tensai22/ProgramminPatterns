@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hw3-3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea6b718e2ec793b4e32e0b2335f1ab5e9109d617")]
 [assembly: System.Reflection.AssemblyProductAttribute("hw3-3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hw3-3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
