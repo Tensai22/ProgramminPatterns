@@ -1,0 +1,7 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\bin\Debug\PR4.exe.config
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\bin\Debug\PR4.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\bin\Debug\PR4.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\obj\Debug\PR4.csproj.AssemblyReference.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\obj\Debug\PR4.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\obj\Debug\PR4.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 4\PR4\obj\Debug\PR4.pdb
