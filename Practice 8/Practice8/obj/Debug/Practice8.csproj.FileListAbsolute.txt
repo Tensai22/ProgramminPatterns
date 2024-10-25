@@ -1,0 +1,7 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\bin\Debug\Practice8.exe.config
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\bin\Debug\Practice8.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\bin\Debug\Practice8.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\obj\Debug\Practice8.csproj.AssemblyReference.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\obj\Debug\Practice8.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\obj\Debug\Practice8.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Practice 8\Practice8\obj\Debug\Practice8.pdb

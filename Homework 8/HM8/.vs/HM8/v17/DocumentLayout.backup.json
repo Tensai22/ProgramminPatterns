@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\templatemethod\\templatem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:templatemethod\\templatem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\temperatureupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\temperatureupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\dooropencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\dooropencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\lightoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\temperaturedowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\temperaturedowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\doorclosecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\doorclosecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|c:\\users\\bako\\onedrive - satbayev university\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\university\\3 year\\programming patterns\\homework 8\\hm8\\command\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA93333-9E47-4BC5-9CD9-0FBC96E5DA1D}|HM8.csproj|solutionrelative:command\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:49:48.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Mediator\\Mediator.cs",
+              "RelativeDocumentMoniker": "Mediator\\Mediator.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Mediator\\Mediator.cs",
+              "RelativeToolTip": "Mediator\\Mediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:58:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateM.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\TemplateMethod\\TemplateM.cs",
+              "RelativeDocumentMoniker": "TemplateMethod\\TemplateM.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\TemplateMethod\\TemplateM.cs*",
+              "RelativeToolTip": "TemplateMethod\\TemplateM.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:57:31.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoorOpenCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\DoorOpenCommand.cs",
+              "RelativeDocumentMoniker": "Command\\DoorOpenCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\DoorOpenCommand.cs",
+              "RelativeToolTip": "Command\\DoorOpenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:53:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemperatureUpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\TemperatureUpCommand.cs",
+              "RelativeDocumentMoniker": "Command\\TemperatureUpCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\TemperatureUpCommand.cs",
+              "RelativeToolTip": "Command\\TemperatureUpCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:53:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Command\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Thermostat.cs",
+              "RelativeToolTip": "Command\\Thermostat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:52:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\ICommand.cs",
+              "RelativeToolTip": "Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:51:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Light.cs",
+              "RelativeDocumentMoniker": "Command\\Light.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Light.cs",
+              "RelativeToolTip": "Command\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:51:33.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\LightOffCommand.cs",
+              "RelativeDocumentMoniker": "Command\\LightOffCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\LightOffCommand.cs",
+              "RelativeToolTip": "Command\\LightOffCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:52:50.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LightOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\LightOnCommand.cs",
+              "RelativeDocumentMoniker": "Command\\LightOnCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\LightOnCommand.cs",
+              "RelativeToolTip": "Command\\LightOnCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:52:41.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "Command\\RemoteControl.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\RemoteControl.cs",
+              "RelativeToolTip": "Command\\RemoteControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:54:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TemperatureDownCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\TemperatureDownCommand.cs",
+              "RelativeDocumentMoniker": "Command\\TemperatureDownCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\TemperatureDownCommand.cs",
+              "RelativeToolTip": "Command\\TemperatureDownCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:54:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoorCloseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\DoorCloseCommand.cs",
+              "RelativeDocumentMoniker": "Command\\DoorCloseCommand.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\DoorCloseCommand.cs",
+              "RelativeToolTip": "Command\\DoorCloseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:53:31.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Door.cs",
+              "RelativeDocumentMoniker": "Command\\Door.cs",
+              "ToolTip": "C:\\Users\\Bako\\OneDrive - Satbayev University\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\University\\3 Year\\Programming Patterns\\Homework 8\\HM8\\Command\\Door.cs",
+              "RelativeToolTip": "Command\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:51:52.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\obj\Debug\HM8.csproj.AssemblyReference.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\obj\Debug\HM8.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\bin\Debug\HM8.exe.config
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\bin\Debug\HM8.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\bin\Debug\HM8.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\obj\Debug\HM8.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 8\HM8\obj\Debug\HM8.pdb
