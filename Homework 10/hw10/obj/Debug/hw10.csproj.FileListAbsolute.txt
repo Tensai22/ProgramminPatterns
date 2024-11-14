@@ -1,0 +1,7 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\obj\Debug\hw10.csproj.AssemblyReference.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\obj\Debug\hw10.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\bin\Debug\hw10.exe.config
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\bin\Debug\hw10.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\bin\Debug\hw10.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\obj\Debug\hw10.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 10\hw10\obj\Debug\hw10.pdb

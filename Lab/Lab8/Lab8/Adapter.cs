@@ -8,20 +8,20 @@ namespace Lab8
 {
     public interface IPaymentProcessor
     {
-        void ProcessPayment(double amount);
-        void RefundPayment(double amount);
+        void ProcessPayment(double amount); 
+        void RefundPayment(double amount); 
     }
 
     public class InternalPaymentProcessor : IPaymentProcessor
     {
         public void ProcessPayment(double amount)
         {
-            Console.WriteLine($"Processing payment of {amount} via internal system.");
+            Console.WriteLine($"Обработка платежа на сумму {amount} через внутреннюю систему.");
         }
 
         public void RefundPayment(double amount)
         {
-            Console.WriteLine($"Refunding payment of {amount} via internal system.");
+            Console.WriteLine($"Возврат платежа на сумму {amount} через внутреннюю систему.");
         }
     }
 
@@ -29,12 +29,12 @@ namespace Lab8
     {
         public void MakePayment(double amount)
         {
-            Console.WriteLine($"Making payment of {amount} via External Payment System A.");
+            Console.WriteLine($"Выполнение платежа на сумму {amount} через внешнюю платежную систему Paypal.");
         }
 
         public void MakeRefund(double amount)
         {
-            Console.WriteLine($"Making refund of {amount} via External Payment System A.");
+            Console.WriteLine($"Возврат платежа на сумму {amount} через внешнюю платежную систему Paypal.");
         }
     }
 
@@ -42,12 +42,12 @@ namespace Lab8
     {
         public void SendPayment(double amount)
         {
-            Console.WriteLine($"Sending payment of {amount} via External Payment System B.");
+            Console.WriteLine($"Отправка платежа на сумму {amount} через внешнюю платежную систему Kaspi.");
         }
 
         public void ProcessRefund(double amount)
         {
-            Console.WriteLine($"Processing refund of {amount} via External Payment System B.");
+            Console.WriteLine($"Обработка возврата на сумму {amount} через внешнюю платежную систему Kaspi.");
         }
     }
 

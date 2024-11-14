@@ -24,7 +24,6 @@ namespace Lab8
             Console.WriteLine($"{beverage.GetDescription()} : {beverage.GetCost()}");
 
             //Adapter
-
             IPaymentProcessor internalProcessor = new InternalPaymentProcessor();
             internalProcessor.ProcessPayment(100.0);
             internalProcessor.RefundPayment(50.0);

@@ -21,7 +21,7 @@ namespace Lab8
 
         public string GetDescription()
         {
-            return "Coffee";
+            return "Кофе";
         }
     }
 
@@ -56,7 +56,7 @@ namespace Lab8
 
         public override string GetDescription()
         {
-            return base.GetDescription() + ", Milk";
+            return base.GetDescription() + ", Молоко";
         }
     }
 
@@ -71,7 +71,7 @@ namespace Lab8
 
         public override string GetDescription()
         {
-            return base.GetDescription() + ", Sugar";
+            return base.GetDescription() + ", Сахар";
         }
     }
 
@@ -86,7 +86,7 @@ namespace Lab8
 
         public override string GetDescription()
         {
-            return base.GetDescription() + ", Chocolate";
+            return base.GetDescription() + ", Шоколад";
         }
     }
 }
