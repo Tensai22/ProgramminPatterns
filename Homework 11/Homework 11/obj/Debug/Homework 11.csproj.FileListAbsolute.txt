@@ -1,0 +1,7 @@
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\obj\Debug\Homework 11.csproj.AssemblyReference.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\obj\Debug\Homework 11.csproj.CoreCompileInputs.cache
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\bin\Debug\Homework 11.exe.config
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\bin\Debug\Homework 11.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\bin\Debug\Homework 11.pdb
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\obj\Debug\Homework 11.exe
+C:\Users\Bako\OneDrive - Satbayev University\Рабочий стол\University\3 Year\Programming Patterns\Homework 11\Homework 11\obj\Debug\Homework 11.pdb
